@@ -6,4 +6,4 @@ Colab notebook: https://colab.research.google.com/drive/1h9n0OyAqoZQZrrSSGNYgwC9
 
 Deep dive: https://docs.google.com/document/d/1KIoNLb1pmxWA0YwrQ_fQMG_bxRjaXS06kumzVQRE1Ms/edit?usp=sharing
 
-There are two CSV files needed for the running of the notebook; I'll try to upload them onto this repository, but just in case that doesn't work, they will be in an email to Professor Crane.
+There are two CSV files needed for the running of the notebook; they are attached in this repository.
